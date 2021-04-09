@@ -1,0 +1,17 @@
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\bin\Debug\TareaReproductor.exe.config
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\bin\Debug\TareaReproductor.exe
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\bin\Debug\TareaReproductor.pdb
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\bin\Debug\Interop.WMPLib.dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\TareaReproductor.csprojAssemblyReference.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\Interop.WMPLib.dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\TareaReproductor.csproj.ResolveComReference.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\TareaReproductor.Form1.resources
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\TareaReproductor.Properties.Resources.resources
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\TareaReproductor.csproj.GenerateResource.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\TareaReproductor.csproj.CoreCompileInputs.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\TareaReproductor.exe
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\TareaReproductor.pdb
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\bin\Debug\MACTrackBarLib.dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\Tareas\TareaReproductor\obj\Debug\TareaReproductor.csproj.CopyComplete
